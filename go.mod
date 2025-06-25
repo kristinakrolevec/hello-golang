@@ -1,3 +1,3 @@
 module github.com/kristinakrolevec/hello-golang
 
-go 1.24.4
+go 1.22
